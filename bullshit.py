@@ -1,4 +1,4 @@
-mport colorama
+import colorama
 from colorama import Fore
 
 print("\nHelló Nirikém!!!")
